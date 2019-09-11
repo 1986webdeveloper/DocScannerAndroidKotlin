@@ -81,7 +81,7 @@ This example is about detecting the borders of any document and then capturing t
                 }
             }
             
-<b>Output :-</b>
+<b>Output :</b>
 
 
 ![alt text](https://github.com/1986webdeveloper/DocScannerAndroidJava/blob/master/new_docscan.gif)
